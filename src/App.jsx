@@ -14,6 +14,7 @@ function App() {
       <Hero />
       <Portfolio />
       <About />
+      <Contact />
       
     </div>
   );
